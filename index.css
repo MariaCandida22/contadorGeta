@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right, #8B47EB, #27EFF2);
+    
+}
+
+div{
+    background-color: #27EFF2;
+    position: relative;
+    top: 180px;
+    width: 250px;
+    padding: 60px;
+    border-radius: 5%;
+}
